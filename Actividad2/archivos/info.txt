@@ -1,0 +1,1 @@
+Sistema operativo: win32 Arquitectura: x64
