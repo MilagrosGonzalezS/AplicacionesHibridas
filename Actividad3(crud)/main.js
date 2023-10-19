@@ -144,7 +144,7 @@ function validaciones(req, res, next) {
   if (cursos.length < 2) {
     return res
       .status(400)
-      .json({ error: "Debes estar inscrito en al menos dos cursos." });
+      .json({ error: "Debes estar inscrpito en al menos dos cursos." });
   }
 
   next();
